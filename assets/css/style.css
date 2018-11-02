@@ -1,3 +1,12 @@
+.jumbotron.jumbotron-fluid {
+    padding-top: 1rem;
+    margin-top: 0rem;
+    text-align: center;
+}
+
+.jumbotron .h1, .jumbotron h1 {
+    font-size: 4rem;
+}
 
 .container {
     background: url("../images/uddPJp0.jpg");
