@@ -1,0 +1,43 @@
+
+.container {
+    background: url("../images/uddPJp0.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 60rem;
+    margin: auto;
+    width: 90%;
+    text-align: center;
+    
+    
+}
+
+.btn-primary,.reset{
+	background-color: #313477;
+	color: white;
+	font-family: 'Sigmar One', sans-serif;
+	font-size: 3rem;
+	padding: 3rem;
+    margin-top: 5rem;
+}
+
+h2, #message, #finalMessage{
+    font-family: Sigmar One;
+    background-color: rgba(74, 143, 53, 0.849);
+    font-size: 3rem;
+}
+
+#correctedAnswer {
+    color: white;
+    background-color: rgba(74, 143, 53, 0.849);
+    font-size: 1.5rem;
+}
+
+.thisChoice:hover{
+	background-color: #c4a000d2;
+	color: white;
+	padding: .5rem;
+}
+
+.btn-primary:hover, .reset:hover{
+	background-color: #c4a000d2;
+}
